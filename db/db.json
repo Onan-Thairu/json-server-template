@@ -2,15 +2,75 @@
   "transporters": [
     {
       "id": 1,
-      "name": "MashPoa"
+      "name": "MashPoa",
+      "destinations": [
+        {
+          "from": "Nairobi",
+          "to": "Mombasa",
+          "price": 2200,
+          "seats": 14
+        },
+        {
+          "from": "Kilifi",
+          "to": "Voi",
+          "price": 1000,
+          "seats": 2
+        },
+        {
+          "from": "Nairobi",
+          "to": "Nyeri",
+          "price": 2200,
+          "seats": 14
+        }
+      ]
     },
     {
       "id": 2,
-      "name": "MANMO"
+      "name": "MANMO",
+      "destinations": [
+        {
+          "from": "Nairobi",
+          "to": "Wajir",
+          "price": 2000,
+          "seats": 10
+        },
+        {
+          "from": "Nairobi",
+          "to": "Mombasa",
+          "price": 2200,
+          "seats": 14
+        },
+        {
+          "from": "Kitale",
+          "to": "Bungoma",
+          "price": 1200,
+          "seats": 12
+        }
+      ]
     },
     {
-      "id":3,
-      "name": "Rukagina"
+      "id": 3,
+      "name": "Rukagina",
+      "destinations": [
+        {
+          "from": "Eldoret",
+          "to": "Bomet",
+          "price": 1300,
+          "seats": 5
+        },
+        {
+          "from": "Nairobi",
+          "to": "Nakuru",
+          "price": 600,
+          "seats": 9
+        },
+        {
+          "from": "Naivash",
+          "to": "Nairobi",
+          "price": 500,
+          "seats": 14
+        }
+      ]
     }
   ]
 }
