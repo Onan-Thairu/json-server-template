@@ -17,7 +17,7 @@
           "seats": 2
         },
         {
-          "from": "Nairobi",
+          "from": "Nakuru",
           "to": "Nyeri",
           "price": 2200,
           "seats": 14
@@ -29,19 +29,19 @@
       "name": "MANMO",
       "destinations": [
         {
-          "from": "Nairobi",
+          "from": "Kisumu",
           "to": "Wajir",
           "price": 2000,
           "seats": 10
         },
         {
-          "from": "Nairobi",
-          "to": "Mombasa",
+          "from": "Marsabit",
+          "to": "Moyale",
           "price": 2200,
           "seats": 14
         },
         {
-          "from": "Kitale",
+          "from": "Turkana",
           "to": "Bungoma",
           "price": 1200,
           "seats": 12
@@ -59,14 +59,14 @@
           "seats": 5
         },
         {
-          "from": "Nairobi",
+          "from": "Moyale",
           "to": "Nakuru",
           "price": 600,
           "seats": 9
         },
         {
-          "from": "Naivash",
-          "to": "Nairobi",
+          "from": "Naivasha",
+          "to": "Kajiado",
           "price": 500,
           "seats": 14
         }
